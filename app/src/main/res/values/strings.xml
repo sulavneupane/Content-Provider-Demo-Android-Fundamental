@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ContentProviderDemo</string>
+    <string name="title_activity_nations">ContentProviderDemo</string>
+</resources>
